@@ -1,2 +1,3 @@
 - Printing text
-- Simple Operation 
+- Simple Operation (+ - * /)
+- Introduction of data types (string, int, float)
