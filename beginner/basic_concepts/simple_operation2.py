@@ -14,6 +14,7 @@ print('''---Result---
 ''')
 
 print('''--Note--
-- 2nd line is printing square root of 16. exponent of half = square root. result in float
+- line 2 is printing square root of 16. exponent of half = square root. result in float
 - you can also use sqrt() function, but need import system. also result in float
+- line 3 after dividing 10 by 3, result 3 (quotient, int) and left over 1 (remainder, int) 
 ''')
