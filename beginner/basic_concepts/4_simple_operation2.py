@@ -1,7 +1,7 @@
-print(2**4)   #int. exponent
-print(16**(1/2))   #float. (/) inside parentheses
-print(10//3)   #int. quotient
-print(10%3)   #int. remainder
+print(2**4)         #int. exponent
+print(16**(1/2))    #float. (/) inside parentheses
+print(10//3)        #int. quotient
+print(10%3)         #int. remainder
 import math
 print(math.sqrt(16))
 
