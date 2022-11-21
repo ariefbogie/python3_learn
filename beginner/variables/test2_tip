@@ -1,0 +1,3 @@
+bill = input("Enter bill : ")
+tip = int(bill)/5
+print('The tip is $'+str(tip))
