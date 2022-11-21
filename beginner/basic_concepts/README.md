@@ -1,8 +1,8 @@
 1. Printing text
-2. Simple operation (+ - * /)
-3. Simple operation 2 (exponent, quotient, remainder)
-4. Play with string (backslash, tab, r, mutiple newline, multiline
-Introduction of data types (string, int, float)
+2. Introduction of data types (string, int, float) and converting them
+3. Simple operation (+ - * /)
+4. Simple operation 2 (exponent, quotient, remainder)
+5. Play with string (backslash, tab, r, mutiple newline, multiline
 
 Test
 1. You need to make a program for a leaderboard. the program needs to output the number 1 to 9, each on separate line, followed by a dot
