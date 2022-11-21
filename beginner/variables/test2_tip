@@ -1,3 +1,6 @@
 bill = input("Enter bill : ")
 tip = int(bill)/5
 print('The tip is $'+str(tip))
+print('---or---')
+bill2 = int(input("Enter bill : "))
+print('You must tip $'+str(bill2/5))
