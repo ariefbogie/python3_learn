@@ -7,6 +7,9 @@ y = '4'
 z = int(x) + int(y)   #change to int
 print(z)   #will calculate as int
 print(x + ' and ' + y)   #string operation
----result--- 
+
+print('''---result--- 
 6
 2 and 4
+''')
+
