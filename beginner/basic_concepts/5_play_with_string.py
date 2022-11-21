@@ -1,9 +1,9 @@
-print('Bogie\'s \t mother:')   #\' = print ' (backslash). \t = tab
-print('One\nTwo\nThree')   #multiple newline
-print(r'One\nTwo\nThree')   #r before ' = ignore all processing, displayed as is
+print('Bogie\'s \t mother:')    #\' = print ' (backslash). \t = tab
+print('One\nTwo\nThree')        #multiple newline
+print(r'One\nTwo\nThree')       #r before ' = ignore all processing, displayed as is
 print('''this
   is a
-multiline''')   #multiline, displayed as is including space, enter
+multiline''')                   #multiline, displayed as is including space, enter
 
 print('''---Result---
 Bogie's mother:
