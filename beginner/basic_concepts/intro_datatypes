@@ -1,0 +1,8 @@
+int1 = 2
+float1 = 3.0
+str1 = "Bogie"
+print(int1)
+print(float1)
+print(str1)
+print(float(int1)) #change int to float
+print(str(int1)) #change int to str
