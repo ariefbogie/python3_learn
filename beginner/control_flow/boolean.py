@@ -6,6 +6,6 @@ False
 True
 ''')
 
-print('''Error note:
+print('''note:
 - instead of print the contents of 'print', it returns true or false
 ''')
