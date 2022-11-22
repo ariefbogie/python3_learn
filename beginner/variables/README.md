@@ -1,5 +1,5 @@
-1. Input prompt message
-2. Changing data type to another type. See more in "basic_concepts" directory
+1. Variable types (int, float, string), input prompt message, changing data type to another type. See more in "basic_concepts" directory
+2. In place operators (+=, -=, *=)
 
 Test
 1. Make a contact card that takes name and age as input, where the name and age are the declared variable values, then outputs it as "name is age years old"
