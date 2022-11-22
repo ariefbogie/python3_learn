@@ -15,3 +15,11 @@ print('''---result---
 2 and 4
 ''')
 
+print('''note:
+-123user = 'Bogie'
+a-variable%name = 'Bogie'
+#error. don't start var with a number, and only support letters, numbers, underscores
+-x = 'Bogie'
+x = 2   ---> result x = 2
+var data_type depends on what inside. no need to declare this var is int or string
+''')
